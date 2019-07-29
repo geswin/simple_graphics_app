@@ -1,0 +1,52 @@
+{
+  "main": {
+    "name":"Geswin",
+    "occupation":"Corporate Actions",
+    "description":"Driven Motivated Passionate",
+    "image":"profilepic.jpg",
+    "bio":"Bio",
+    "contactmessage":"Contact Me Here",
+    "email": "geswincodes@gmail.com",
+    "phone": "11111-111",
+    "address":{
+      "street":"Street 11",
+      "city":"Singapore",
+      "state":"Singapore",
+      "zip": "123456"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/geswin-sim-787122a2/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Proficient in:",
+    "education":[
+      {
+        "school":"University #1",
+        "degree":"Bachelors in Business",
+        "graduated":"2012",
+        "description":"Description"
+      }
+    ],
+    "work":[
+
+    ],
+    "skills":[
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+
+    ]
+  }
+}
